@@ -1,4 +1,4 @@
-Main for online 
+Main for online testing
 #include <stdio.h>
 
 #include "math.h"
